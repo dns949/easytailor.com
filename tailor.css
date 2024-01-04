@@ -1,0 +1,154 @@
+.sec {
+    height: 700px;
+    width: 100vw;
+}
+
+.navbarr {
+    position: relative !important;
+}
+
+body {
+    background-color: rgba(173, 171, 171, 0.836) !important;
+    overflow-x: hidden !important;
+}
+
+.inputt {
+    overflow: -moz-hidden-unscrollable;
+    width: 100vw;
+    height: 1400px;
+    background-color: rgba(179, 176, 176, 0.836);
+}
+
+.eml {
+    width: 300px !important;
+    color: rgb(0, 0, 0);
+    font-weight: 500 !important;
+}
+
+.inpur {
+    width: 300px !important;
+}
+
+.my {
+    margin-left: 38% !important;
+}
+
+.myy {
+    margin-top: -250px;
+    margin-left: 100px;
+}
+
+.mi {
+    margin-top: -370px;
+    margin-left: 400px;
+}
+
+.mii {
+    margin-top: -370px;
+    margin-left: 400px;
+}
+
+.miii {
+    margin-top: 350px;
+    margin-left: -800px;
+}
+
+.homee {
+    text-decoration: none !important;
+    font-weight: 400 !important;
+    border-bottom: 2px solid transparent !important;
+}
+
+.tailorr {
+    font-weight: 700 !important;
+    border-bottom: 1px solid white !important;
+}
+
+@media only screen and ( width <1200px) {
+    .mii {
+        margin-left: 350px;
+    }
+}
+
+@media only screen and ( width <1200px) {
+    .mii {
+        margin-left: 350px;
+    }
+    .myy {
+        margin-left: 80px;
+    }
+    .miii {
+        margin-left: -750px;
+    }
+}
+
+@media only screen and ( width <1124px) {
+    .mii {
+        margin-top: 350px;
+        margin-left: -400px;
+    }
+    .myy {
+        margin-left: 15rem;
+    }
+    .inputt {
+        height: 1400px !important;
+    }
+    .miii {
+        margin-top: -376px;
+        margin-left: 400px;
+    }
+}
+
+@media only screen and ( width <941px) {
+    .mii {
+        margin-left: -400px;
+    }
+    .myy {
+        margin-left: 150px;
+    }
+}
+
+.btnn {
+    margin-top: 20px !important;
+    background-color: rgb(255, 102, 0) !important;
+    color: white !important;
+    font-weight: 700 !important;
+}
+
+@media only screen and ( width <849px) {
+    .mii {
+        margin-left: -00px;
+    }
+    .mi {
+        margin-top: 20rem;
+        margin-left: -0rem;
+    }
+    .myy {
+        margin-left: 38%;
+    }
+    .inputt {
+        height: 150rem !important;
+    }
+    .miii {
+        margin-top: 290px;
+        margin-left: -00px;
+    }
+}
+
+@media only screen and ( width <849px) {
+    .my {
+        margin-left: 30% !important;
+    }
+    .myy {
+        margin-left: 30% !important;
+    }
+}
+
+@media only screen and ( width <376px) {
+    .my {
+        margin-left: 10% !important;
+    }
+    .myy {
+        margin-left: 10% !important;
+    }
+}

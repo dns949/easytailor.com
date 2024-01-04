@@ -1,0 +1,415 @@
+                        .lists {
+                            color: white !important;
+                            text-transform: uppercase;
+                        }
+                        
+                        body {
+                            font-family: Georgia, 'Times New Roman', Times, serif;
+                        }
+                        
+                        .homee {
+                            border-bottom: 1px solid white !important;
+                            font-weight: 640 !important;
+                        }
+                        
+                        .lists:hover {
+                            font-weight: 500 !important;
+                            border-bottom: 1px solid rgb(255, 255, 255);
+                        }
+                        
+                        .navbarr {
+                            z-index: 4;
+                            box-shadow: 1px -12px 60px 1px;
+                            width: 100% !important;
+                            position: fixed !important;
+                        }
+                        
+                        .logoo {
+                            color: white !important;
+                            font-weight: 500;
+                            font-size: 30px !important;
+                        }
+                        
+                        .btnn1 {
+                            color: white !important;
+                            background-color: rgb(0, 66, 128) !important;
+                        }
+                        
+                        .btnn1:hover {
+                            background-color: rgb(64, 124, 180) !important;
+                        }
+                        
+                        .btnn2 {
+                            border: 2px solid rgb(255, 255, 255) !important;
+                        }
+                        
+                        .btnn2:hover {
+                            background-color: rgb(255, 147, 76)!important;
+                        }
+                        
+                        .btnnn2 {
+                            color: white !important;
+                            text-decoration: none;
+                        }
+                        
+                        .btnn3 {
+                            border: 2px solid rgb(255, 255, 255) !important;
+                        }
+                        
+                        .btnnn3 {
+                            color: white !important;
+                            text-decoration: none;
+                        }
+                        
+                        .btnn3:hover {
+                            background-color: rgb(255, 147, 76)!important;
+                        }
+                        
+                        .btnnn4:hover {
+                            color: rgb(216, 213, 213) !important;
+                        }
+                        
+                        .btnnn4 {
+                            color: white !important;
+                            font-size: 32px !important;
+                        }
+                        
+                        .globe {
+                            color: white !important;
+                        }
+                        
+                        .secmain {
+                            background-color: rgb(255, 255, 255) !important;
+                            position: relative;
+                            height: 990px;
+                            width: 100vw !important;
+                        }
+                        
+                        .slidee {
+                            width: 98vw !important;
+                            overflow: hidden;
+                            position: relative !important;
+                            top: 129px;
+                            border: 2px solid transparent;
+                            border-radius: 2px !important;
+                        }
+                        
+                        .radd {
+                            position: relative;
+                            border: 2px transparent;
+                            border-radius: 2ch;
+                        }
+                        
+                        .thirdmain {
+                            height: 300px;
+                            width: 100%;
+                            background-color: rgb(255, 255, 255) !important;
+                        }
+                        
+                        .mart {
+                            display: flex;
+                            flex-direction: row !important;
+                            justify-content: space-around;
+                            position: relative !important;
+                            left: -0px !important;
+                        }
+                        
+                        .free {
+                            cursor: pointer;
+                            margin-top: -157px !important;
+                            margin-left: 0px;
+                            border-radius: 30px;
+                            height: 80px;
+                            width: 80px;
+                            margin-top: 12px;
+                        }
+                        
+                        .carddd {
+                            border: 1px solid rgb(201, 201, 201);
+                        }
+                        
+                        .bodyyy {
+                            border: 3px solid transparent !important;
+                            border-radius: 4ch;
+                        }
+                        
+                        .foot-panel1 {
+                            width: 100vw !important;
+                            background-color: rgb(255, 102, 0);
+                            color: white;
+                            height: 50px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            font-size: 1rem;
+                        }
+                        
+                        footer {
+                            margin-top: 15px;
+                        }
+                        
+                        .foot-panel2 {
+                            background-color: rgb(255, 102, 0);
+                            color: white;
+                            height: 500px;
+                            display: flex;
+                            justify-content: space-evenly;
+                        }
+                        
+                        ul a {
+                            cursor: pointer;
+                            display: block;
+                            font-size: 0.85rem;
+                            margin-top: 10px;
+                            color: #dddddd;
+                        }
+                        
+                        ul a:hover {
+                            font-weight: 500 !important;
+                        }
+                        
+                        ul {
+                            margin-top: 20px;
+                        }
+                        
+                        .foot-panel3 {
+                            background-color: black;
+                            color: white;
+                            border-top: 0.5px solid white;
+                            height: 70px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                        }
+                        
+                        .logo {
+                            background-image: url(data:image/png;base64,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);
+                            background-size: cover;
+                            height: 50px;
+                            width: 100px;
+                        }
+                        
+                        .foot-panel4 {
+                            overflow: hidden;
+                            background-color: #072125;
+                            margin-top: -90px !important;
+                            color: white;
+                            display: flex;
+                            height: 90px;
+                            justify-content: center;
+                            align-items: center;
+                            display: block;
+                        }
+                        
+                        .pages {
+                            font-size: 0.7rem;
+                            text-align: center;
+                            padding: 25px;
+                        }
+                        
+                        .copy {
+                            padding: 5px;
+                            font-size: 0.7rem;
+                            display: block;
+                            text-align: center;
+                        }
+                        
+                        @media only screen and ( width >=995px) {
+                            .all {
+                                color: black !important;
+                                position: relative;
+                                left: 10px;
+                            }
+                            .selectt {
+                                height: 40px !important;
+                                width: 30px !important;
+                                position: relative;
+                                left: 230px;
+                                top: -20px;
+                                color: black !important;
+                            }
+                            .lists {
+                                margin-left: 100px !important;
+                                margin-top: 50px;
+                            }
+                            .navbarr {
+                                height: 110px;
+                            }
+                            .ull {
+                                margin-left: -419px;
+                            }
+                            .searchh {
+                                position: relative;
+                                left: 230px;
+                                top: -20px;
+                                height: 40px;
+                                width: 500px !important;
+                            }
+                            .btnn1 {
+                                position: relative;
+                                left: 225px;
+                                top: -19px;
+                            }
+                            .logoo {
+                                align-items: center;
+                                text-transform: capitalize;
+                                font-size: 42px !important;
+                                position: absolute;
+                                top: 10px;
+                                left: 30px;
+                            }
+                            .btnn2 {
+                                z-index: 3;
+                                height: 40px;
+                                width: 69px;
+                                position: relative;
+                                left: -15px;
+                                top: -15px;
+                                border: 2px solid rgb(255, 255, 255) !important;
+                            }
+                            .btnn2:hover {
+                                background-color: rgb(255, 147, 76)!important;
+                            }
+                            .btnnn2 {
+                                text-transform: uppercase;
+                                font-weight: 300 !important;
+                                height: 40px;
+                                width: 60px;
+                                position: relative;
+                                color: white !important;
+                                text-decoration: none;
+                            }
+                            .btnn3 {
+                                z-index: 4;
+                                position: relative;
+                                left: -10px;
+                                top: -15px;
+                                border: 2px solid rgb(255, 255, 255) !important;
+                            }
+                            .btnnn3 {
+                                text-transform: uppercase;
+                                font-weight: 300 !important;
+                                color: white !important;
+                                text-decoration: none;
+                            }
+                            .btnn3:hover {
+                                background-color: rgb(255, 147, 76)!important;
+                            }
+                            .btnn4 {
+                                position: relative;
+                                left: -230px;
+                                top: -16px;
+                            }
+                            .btnnn4:hover {
+                                color: rgb(216, 213, 213) !important;
+                            }
+                            .btnnn4 {
+                                color: white !important;
+                                font-size: 32px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <984px) {
+                            .carddd {
+                                position: relative !important;
+                                top: -300px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <808px) {
+                            .carddd {
+                                position: relative !important;
+                                top: -530px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <1200px) {
+                            .carddd {
+                                position: relative !important;
+                                top: -430px !important;
+                            }
+                            .foot-panel4 {
+                                overflow: hidden;
+                                background-color: #072125;
+                                margin-top: -90px !important;
+                                color: white;
+                                display: flex;
+                                height: 90px;
+                                justify-content: center;
+                                align-items: center;
+                                display: block;
+                            }
+                            .thirdd {
+                                height: 1700px;
+                            }
+                        }
+                        
+                        @media only screen and ( width <490px) {
+                            .carddd {
+                                margin-top: -100px;
+                            }
+                        }
+                        
+                        @media only screen and ( width <808px) {
+                            .carddd {
+                                position: relative !important;
+                                top: -530px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <984px) {
+                            .searchh {
+                                width: 650px !important;
+                            }
+                            .mart {
+                                margin-left: -180px;
+                            }
+                        }
+                        
+                        @media only screen and ( width <884px) {
+                            .searchh {
+                                width: 400px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <938px) {
+                            .searchh {
+                                width: 600px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <838px) {
+                            .searchh {
+                                width: 500px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <738px) {
+                            .searchh {
+                                width: 400px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <638px) {
+                            .searchh {
+                                width: 300px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <538px) {
+                            .searchh {
+                                width: 200px !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <470) {
+                            .slidee {
+                                width: 70vw !important;
+                            }
+                        }
+                        
+                        @media only screen and ( width <990) {
+                            .mart {
+                                margin-left: -180px;
+                            }
+                        }

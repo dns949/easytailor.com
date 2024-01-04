@@ -1,0 +1,140 @@
+body {
+    overflow-x: hidden;
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.login {
+    background-color: rgb(223, 222, 222);
+    height: 550px;
+    width: 350px;
+    margin-left: 34%;
+    margin-top: 100px;
+    border-radius: 1ch;
+    border: 1px solid rgb(202, 200, 200);
+}
+
+.inputt {
+    width: 300px;
+    margin-left: 7%;
+}
+
+.labell {
+    margin-left: 7%;
+}
+
+.lbl {
+    margin-top: 5% !important;
+}
+
+.link {
+    position: relative !important;
+    margin-left: 1.5rem;
+    top: -6px;
+    color: rgb(255, 102, 0) !important;
+}
+
+.btnn1 {
+    background-color: rgb(255, 102, 0) !important;
+    border: 1px solid transparent !important;
+    width: 300px;
+}
+
+.btnn1:hover {
+    background-color: rgb(182, 74, 3) !important;
+}
+
+.link:hover {
+    color: rgb(240, 134, 64) !important;
+}
+
+.checkk:checked {
+    background-color: rgb(255, 102, 0) !important;
+}
+
+.a {
+    color: rgb(255, 102, 0) !important;
+    position: relative;
+    top: 2rem;
+}
+
+.n {
+    display: inline;
+    margin-left: 3rem;
+    position: relative;
+    top: 2rem;
+    margin-top: 6rem !important;
+}
+
+.lbll {
+    margin-top: -20px !important;
+}
+
+.h1 {
+    color: rgb(255, 102, 0) !important;
+    margin-left: 35%;
+    position: absolute;
+    top: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+.p1 {
+    font-size: 38px;
+    position: absolute;
+    margin-top: -58px;
+    margin-left: 37%;
+    font-weight: 100;
+}
+
+@media only screen and ( width <715px) {
+    .login {
+        margin-left: 20% !important;
+    }
+    .h1 {
+        margin-left: 18%;
+    }
+}
+
+@media only screen and ( width <433px) {
+    .login {
+        margin-left: 10% !important;
+    }
+    .h1 {
+        margin-left: 8%;
+    }
+}
+
+@media only screen and ( width <387px) {
+    .login {
+        margin-left: 5% !important;
+    }
+    .h1 {
+        margin-top: -40px;
+        margin-left: 3%;
+    }
+}
+
+@media only screen and ( width <349px) {
+    .login {
+        margin-left: 2% !important;
+    }
+    .h1 {
+        font-size: 31px;
+        margin-left: 5% !important;
+    }
+}
+
+.aa {
+    margin-left: 15rem;
+    color: rgb(255, 102, 0) !important;
+}
+
+.a:hover {
+    color: rgb(255, 144, 70) !important;
+}
+
+.aa:hover {
+    color: rgb(255, 144, 70) !important;
+}
